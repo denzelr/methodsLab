@@ -1,8 +1,8 @@
 Ryan Denzel 	Lab 3: Version Control Lab
-<<<<<<< HEAD
+
 
 this might cause a merge conflict 
-=======
+
 Partner: Kyle Rooney
  
->>>>>>> 7feb1c6b45f3d59fe42a59e6fe76c86a3fd2cccb
+
